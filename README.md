@@ -1,7 +1,7 @@
 # Burgers-Vector-Calculator
 Program that computes Burgers vectors from elastic strain and lattice rotation data
 
-![goodfigure1](https://user-images.githubusercontent.com/58394283/134068093-11dc8367-1617-44a5-b8a9-f37e752e5c5c.png)
+<img src="https://github.com/JacquesCloete/Burgers-Vector-Calculator/Burgers_Vector_Cloete_J_Final/3D/goodfigure1.png" width="250" height="250" />
 
 ![goodfigure2](https://user-images.githubusercontent.com/58394283/134068119-584ae4f1-d030-441f-b00c-0ad650aea6f9.png)
 
