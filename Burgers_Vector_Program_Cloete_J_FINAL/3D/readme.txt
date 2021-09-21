@@ -42,6 +42,11 @@ To run the program, see the Calculator and Plotter scripts. They should explain 
 program works and how to perform the computations on a step-by-step level. The functions etc. 
 have also been annotated to explain the procedure clearly.
 
+TO USE THE 3D DATA SET:
+Right-click the first of the split files in the "3D Data" folder and use 7zip to extract them
+all as the one data file, "recD_sam_str_rot.mat". Make sure to extract the file into the "3D" 
+folder so that the program can locate it.
+
 The "Test" and "find_noise" scripts have been included in case the user wants to 
 achieve\verify the findings used for analysis in the associated paper.
 
