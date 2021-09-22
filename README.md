@@ -5,7 +5,7 @@ Program that computes (and plots) Burgers vectors of dislocations entirely from 
 Jacques Cloete, Felix Hofmann and Edmund Tarleton
 (publication pending)
 
-It is suggested that the user reads the paper prior to operating the program.
+It is encouraged that the user reads the paper prior to operating the program.
 
 The program has both a 3D and 2D variant, each of which comprised of a Plotter and a Calculator:
 
