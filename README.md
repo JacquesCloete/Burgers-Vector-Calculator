@@ -23,4 +23,24 @@ The following images were produced using the 3D Plotter, loaded with the experim
 
 For further information on both the 3D and 2D versions of the program, refer to the readme.txt files in their respective folders.
 
+## Zenodo Archive
+
+A Zenodo archive, preserved at the time of publication, is also available with DOI below:
+
 [![DOI](https://zenodo.org/badge/408582523.svg)](https://zenodo.org/badge/latestdoi/408582523)
+
+## Original Datasets Used
+
+BCDI Data:  Hofmann F, Phillips NW, Das S, Karamched P, Hughes GM, Douglas JO, Cha W, Liu W.
+2020 Nanoscale imaging of the full strain tensor of specific dislocations extracted from a bulk
+sample. Phys. Rev. Materials 4, 013801. <br />
+DOI: https://doi.org/10.1103/PhysRevMaterials.4.013801
+
+HR-TKD Data: Yu H, Liu J, Karamched P, Wilkinson AJ, Hofmann F. 2019 Mapping the full lattice strain tensor
+of a single dislocation by high angular resolution transmission Kikuchi diffraction (HR-TKD).
+Scripta Materialia 164, 36–41. <br />
+DOI: https://doi.org/10.1016/j.scriptamat.2018.12.039
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
