@@ -24,6 +24,12 @@ The following images were produced using the 3D Plotter, loaded with the experim
 For further information on both the 3D and 2D versions of the program, refer to the readme.txt files in their respective folders.
 
 
+## Zenodo Archive
+
+A Zenodo archive, preserved at the time of publication, is also available with DOI below:
+
+[![DOI](https://zenodo.org/badge/408582523.svg)](https://zenodo.org/badge/latestdoi/408582523)
+
 ## Original Datasets Used
 
 BCDI Data:  Hofmann F, Phillips NW, Das S, Karamched P, Hughes GM, Douglas JO, Cha W, Liu W.
