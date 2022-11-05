@@ -1,9 +1,8 @@
 # Burgers-Vector-Calculator
 Program that computes (and plots) Burgers vectors of dislocations entirely from elastic strain and lattice rotation data. Designed and created by Jacques Cloete under supervision from Felix Hofmann and Edmund Tarleton. This is the supplementary program to the following paper:
 
-"Computation of Burgers Vectors from Elastic Strain and Lattice Rotation Data"
-Jacques Cloete, Felix Hofmann and Edmund Tarleton
-(publication pending)
+**Cloete J**, Tarleton E, Hofmann F. (2022) Computation of Burgers Vectors from Elastic Strain and Lattice Rotation Data. *Proc. R. Soc. A*, 478(2263)
+DOI: [https://doi.org/10.1098/rspa.2021.0909](https://doi.org/10.1098/rspa.2021.0909)
 
 It is encouraged that the user reads the paper prior to operating the program.
 
